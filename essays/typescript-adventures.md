@@ -12,7 +12,7 @@ labels:
   - TypeScript
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/typescript/FreeCodeCamp.png">
+<img width="300px" class="rounded mx-auto d-block" src="../img/typescript/FreeCodeCamp.png">
 
 ## Introduction to JavaScript
 
@@ -20,7 +20,7 @@ Before taking the FreeCodeCamp course to learn JavaScript and TypeScript, I knew
 
 ## Learning TypeScript
 
-<img width="300px" class="rounded float-start pe-4" src="../img/typescript/Typescript.png">
+<img width="300px" class="rounded mx-auto d-block" src="../img/typescript/Typescript.png">
 
 Essay Here.
 
