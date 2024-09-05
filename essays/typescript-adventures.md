@@ -13,6 +13,7 @@ labels:
 ---
 
 <img width="300px" class="rounded float-start pe-4" src="../img/typescript/FreeCodeCamp.png">
+## 
 
 ## Introduction to JavaScript
 
