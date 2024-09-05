@@ -8,8 +8,8 @@ published: false
 labels:
   - Software Engineering
   - Learning
-  - Javascript
-  - Typescript
+  - JavaScript
+  - TypeScript
 ---
 
 <img width="100px" class="rounded float-start pe-4" src="..img/typescript/FreeCodeCamp.png">
