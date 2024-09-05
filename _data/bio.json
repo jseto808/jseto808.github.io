@@ -7,7 +7,7 @@
     "phone": "808-722-1391",
     "website": "https://jseto808.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2026.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "location": { "address": "", "postalCode": "96816", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "jseto808", "url": "http://github.com/jseto808" },
       { "network": "linkedin", "username": "Jared Seto", "url": "https://www.linkedin.com/in/jared-seto/" }
@@ -26,7 +26,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "Windows 10/11", "MacOS", "Git/GitHub" ]
     }
   ],
   "education": [
@@ -45,6 +45,15 @@
       "studyType": "B.S.",
       "startDate": "2019",
       "endDate": "2022",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Kalani High School, Honolulu, HI",
+      "area": "Academic and CTE Honors",
+      "studyType": "High School Diploma",
+      "startDate": "2014",
+      "endDate": "2018",
       "courses": [
       ]
     }
