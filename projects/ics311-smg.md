@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/ics311-tsp/OptimalPath.png
+image: img/ics311-smg/Social Media.jpg
 title: "Social Media Graph"
 date: 2024-08-04
 published: true
@@ -16,7 +16,7 @@ summary: "An algorithm designed to graph the connections from social media posts
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/ics311-tsp/Dijkstra.jpg" class="img-thumbnail" >
+  <img width="200px" src="../img/ics311-smg/SM Graph.jpg" class="img-thumbnail" >
 </div>
 
 
