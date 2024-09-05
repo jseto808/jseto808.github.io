@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/ics211-a1/Calculator.jpg
+image: img/ics311-tsp/OptimalPath.png
 title: "Traveling Salesman Problem"
 date: 2024-07-16
 published: true
@@ -16,8 +16,7 @@ summary: "An algorithm designed to solve the Traveling Salesman Problem using Di
 ---
 
 <div class="text-center p-4">
-  <img width="254px" src="../img/ics211-a1/File Explorer.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/ics211-a1/DateTime.png" class="img-thumbnail" >
+  <img width="200px" src="../img/ics311-tsp/Dijkstra.jpg" class="img-thumbnail" >
 </div>
 
 
