@@ -20,4 +20,4 @@ summary: "An algorithm designed to solve the Traveling Salesman Problem using Di
 </div>
 
 
-Source: <a href="https://github.com/jseto808/ICS211-A1.git"><i class="large github icon "></i>jseto808/ICS211-A1</a>
+Source: <a href="https://github.com/jseto808/ICS311-TSP.git"><i class="large github icon "></i>jseto808/ICS311-TSP</a>
