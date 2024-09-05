@@ -38,32 +38,29 @@
       "endDate": "Present",
       "courses": [
       ]
+    },
+    {
+      "institution": "Arizona State University, Tempe, AZ",
+      "area": "Computer Science",
+      "studyType": "B.S.",
+      "startDate": "2019",
+      "endDate": "2022",
+      "courses": [
+      ]
     }
-    
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "company": "UH Manoa Student-Athlete Academic Services",
+      "position": "Computer Support Specialist",
+      "website": "https://manoa.hawaii.edu/undergrad/saas/",
+      "startDate": "2022-08-12",
+      "endDate": "2023-10-12",
+      "summary": "Provide computer support to students and faculty and update the SAAS website",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Maintain, update, and oversee the official SAAS website",
+        "Assist students and faculty with any computer-related issues",
+        "Maintain and update computers within computer lab"
       ]
     }
   ],
