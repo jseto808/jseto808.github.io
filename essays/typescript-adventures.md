@@ -32,7 +32,7 @@ Putting my skills to the test using Athletic Software Engineering and the Workou
 
 ## Example WOD
 
-This is a practice WOD from the beginning of my ICS 314 course that finds the sum of all numbers below 1000 that are divisible by 3 or 5.
+This is a practice WOD from the beginning of my ICS 314 course that finds the sum of all numbers below 1000 that are divisible by 3 or 5. Using Athletic Software Engineering, I was able to solve the problem within one minute.
 
 ```
 
