@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "My Future Starts Now"
 # All dates must be YYYY-MM-DD format!
-date: 2024-09-04
+date: 2024-09-03
 published: false
 labels:
   - Software Engineering
