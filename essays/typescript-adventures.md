@@ -12,7 +12,7 @@ labels:
   - TypeScript
 ---
 
-<img width="300px" class="rounded mx-auto d-block" src="../img/typescript/FreeCodeCamp.png">
+<img width="500px" class="rounded mx-auto d-block" src="../img/typescript/FreeCodeCamp.png">
 
 ## Introduction to JavaScript
 
@@ -20,11 +20,9 @@ Before taking the FreeCodeCamp course to learn JavaScript and TypeScript, I knew
 
 ## Learning TypeScript
 
-<img width="300px" class="rounded mx-auto d-block" src="../img/typescript/Typescript.png">
+<img width="500px" class="rounded mx-auto d-block" src="../img/typescript/Typescript.png">
 
-Essay Here.
-
-
+After learning JavaScript, TypeScript was fairly easy to learn. TypeScript seemed like a more precise version of JavaScript. It makes more use of assigning types to variables and functions. This allows for the code to be easier to understand by displaying the intended function of each variable and function. I enjoyed learning TypeScript and believe that it will be very useful for a future career in software engineering due to the versatility of the language.
 
 ## TypeScript Playground
 
