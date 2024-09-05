@@ -18,7 +18,7 @@ labels:
 
 ## Introduction to JavaScript
 
-Before taking the FreeCodeCamp course to learn JavaScript and TypeScript, I knew little about how the JavaScript and TypeScript languages functioned. My prior experience in programming languages consisted of Java and Python. I learned Java in the introductory Computer Science courses at Arizona State University and the University of Hawai'i at Mānoa. Due to my experience with Java, learning JavaScript was not that hard. The FreeCodeCamp course taught me the necessary diction and syntax changes that I needed to make to adapt to writing code in JavaScript. The experience of learning JavaScript was not too difficult considering how similar the language is to Java. The introductory course in JavaScript helped to prepare me for my next challenge: learning TypeScript.
+Before taking the FreeCodeCamp course to learn JavaScript and TypeScript, I knew little about how the JavaScript and TypeScript languages functioned. My prior experience in programming languages consisted of Java and Python. I learned Java in the introductory Computer Science courses at Arizona State University and the University of Hawai'i at Mānoa and used the knowledge from Java to teach myself Python. Due to my experience with Java, learning JavaScript was not that hard. The FreeCodeCamp course taught me the necessary diction and syntax changes that I needed to make to adapt to writing code in JavaScript. The experience of learning JavaScript was not too difficult considering how similar the language is to Java. The introductory course in JavaScript helped to prepare me for my next challenge: learning TypeScript.
 
 <img width="500px" class="rounded mx-auto d-block" src="../img/typescript/Typescript.png">
 
