@@ -1,0 +1,17 @@
+---
+layout: essay
+type: essay
+title: "Adventures with Typescript"
+# All dates must be YYYY-MM-DD format!
+date: 2024-09-04
+published: false
+labels:
+  - Software Engineering
+  - Learning
+  - Javascript
+  - Typescript
+---
+
+<img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
+
+Essay Here.
