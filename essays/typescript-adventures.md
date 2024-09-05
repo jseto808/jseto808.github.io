@@ -18,6 +18,12 @@ labels:
 
 Essay Here.
 
+## Learning TypeScript
+
+Essay Here.
+
 <img width="500px" class="rounded float-start pe-4" src="../img/typescript/Typescript.png">
+
+## TypeScript Playground
 
 Essay Here.
