@@ -16,7 +16,7 @@ summary: "An algorithm designed to graph the connections from social media posts
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/ics311-smg/SM Graph.jpg" class="img-thumbnail" >
+  <img width="500px" src="../img/ics311-smg/SM Graph.jpg" class="img-thumbnail" >
 </div>
 
 
