@@ -14,7 +14,7 @@ labels:
 
 <img width="500px" class="rounded float-start pe-4" src="../img/typescript/FreeCodeCamp.png">
 
-## Learning JavaScript
+## Introduction to JavaScript
 
 Essay Here.
 
