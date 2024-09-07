@@ -17,7 +17,7 @@ summary: "An algorithm designed to solve the Traveling Salesman Problem using Di
 
 <div class="text-center p-4">
   <img width="280px" src="../img/ics311-tsp/Dijkstra.jpg" class="img-thumbnail" >
-  <img width="500px" src="../img/ics311-tsp/ShortestPath.jpeg" class="img-thumbnail" >
+  <img width="470px" src="../img/ics311-tsp/ShortestPath.png" class="img-thumbnail" >
 </div>
 
 
