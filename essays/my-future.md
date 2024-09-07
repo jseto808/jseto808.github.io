@@ -11,6 +11,6 @@ labels:
   - Career
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
+<img width="500px" class="rounded mx-auto d-block" src="../img/my-future/CompSci.jpg">
 
 Essay Here.
