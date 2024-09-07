@@ -55,7 +55,7 @@ public static int[] dijkstra(int[][] graph, int start) {
 }
 ```
 
-## What I learned
+## What I Learned
 This project helped me understand how to apply a special algorithm to my algorithm to solve a problem. I also learned how to solve a problem that could be applied to a real-world issue. The Traveling Salesman Problem is a problem that requires an efficient solution that can help minimize costs. This problem applies to real-world issues like simply finding the fastest way to get to work. Google Maps is a tool that uses a similar issue to find the fastest route from one point to another. Being able to solve the Traveling Salesman Problem taught me how a simple Computer Science solution can be extremely useful in a real application.
 
 Source: <a href="https://github.com/jseto808/ICS311-TSP.git"><i class="large github icon "></i>jseto808/ICS311-TSP</a>
