@@ -40,6 +40,10 @@ The algorithm I developed used NetworkX and Matplotlib to create and visualize a
                 node_size=300, font_size=8, font_color='black',
                 edge_color='gray', linewidths=0.5, width=0.5, alpha=0.7, ax=ax)
 ```
+## Example Output
+<div class="text-center p-4">
+  <img width="500px" src="../img/ics311-smg/GraphOutput.png" class="img-thumbnail" >
+</div>
 
 ## What I Learned
 This project taught me how to develop an algorithm that could produce a computer-generated graph. The solution required me to learn how to use an algorithm to create a graph that could represent data in a way that could be easily read and could also be manipulated if need be. Through this project, I have been able to develop my ability to solve problems by developing and implementing algorithms that are designed to solve a specific problem and provide an efficient solution.
