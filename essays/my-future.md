@@ -4,13 +4,21 @@ type: essay
 title: "My Future Starts Now"
 # All dates must be YYYY-MM-DD format!
 date: 2024-09-03
-published: false
+published: true
 labels:
   - Software Engineering
   - Learning
   - Career
+  - Skills
+  - Life Journey
 ---
 
 <img width="500px" class="rounded mx-auto d-block" src="../img/my-future/CompSci.jpg">
 
-Essay Here.
+## My Beggining
+
+
+## My Journey
+
+
+## My Future
