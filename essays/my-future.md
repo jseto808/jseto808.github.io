@@ -15,7 +15,7 @@ labels:
 
 <img width="500px" class="rounded mx-auto d-block" src="../img/my-future/CompSci.jpg">
 
-## My Beggining
+## My Beginning
 
 
 ## My Journey
