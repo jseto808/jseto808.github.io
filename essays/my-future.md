@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "My Future Starts Now"
+title: "Path Toward My Future"
 # All dates must be YYYY-MM-DD format!
 date: 2024-09-03
 published: true
