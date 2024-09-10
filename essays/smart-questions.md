@@ -96,7 +96,7 @@ edit Sorry I was not clear. Is there any way to make a DESKTOP application with 
 
 A simple “yes” would have answered the question, but we know that’s not the sort of answer he or she is looking for. Fortunately, someone kindly responded with a link to Facebook’s developer website. The asker should have done more research on his or her potential project. Then further down the road, he or she could have asked more specific and detailed questions that wouldn’t require a thousand-paged response for a sufficient answer.
 
-Source: <a href="https://stackoverflow.com/questions/78971412/how-to-measure-new-change-in-data"><i class="large github icon "></i>Stupid Question</a>
+Source: <a href="https://stackoverflow.com/questions/12811859/how-to-make-a-composite-manifest-for-microsoft-smooth-streaming"><i class="large github icon "></i>Stupid Question</a>
 
 ## Conclusion
 
