@@ -77,6 +77,8 @@ Like this:
  
 The asker received six possible answers, and he or she was successful in inciting discussion from multiple users. The answers themselves were clear and were devoid of the rumored sarcasm and hostility of “hackers.” Since I myself have referenced this page and found it useful, I can confidently say that it is a good question.
 
+Source: <a href="https://stackoverflow.com/questions/1777914/java-need-to-create-pdf-from-byte-array"><i class="large github icon "></i>Smart Question</a>
+
 ## The foolproof way to get ignored.
 
 While there are decent questions that benefit everyone, there are those one can ask to create an entirely different effect. In the following example, a user asks how he would, in short, create a desktop application with Facebook.
@@ -93,6 +95,8 @@ edit Sorry I was not clear. Is there any way to make a DESKTOP application with 
 ```
 
 A simple “yes” would have answered the question, but we know that’s not the sort of answer he or she is looking for. Fortunately, someone kindly responded with a link to Facebook’s developer website. The asker should have done more research on his or her potential project. Then further down the road, he or she could have asked more specific and detailed questions that wouldn’t require a thousand-paged response for a sufficient answer.
+
+Source: <a href="https://stackoverflow.com/questions/78971412/how-to-measure-new-change-in-data"><i class="large github icon "></i>Stupid Question</a>
 
 ## Conclusion
 
