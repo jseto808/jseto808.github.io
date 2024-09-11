@@ -13,7 +13,11 @@ labels:
   - Life Journey
 ---
 
-<img width="500px" class="rounded mx-auto d-block" src="../img/my-future/CompSci.jpg">
+<div class="text-center p-4">
+  <img width="200px" src="../img/my-future/bball.jpeg" class="img-thumbnail" >
+  <img width="300px" src="../img/my-future/music.png" class="img-thumbnail" >
+  <img width="300px" src="../img/my-future/games.jpeg" class="img-thumbnail" >
+</div>
 
 ## My Beginning
 My life so far has been full of different experiences. As a child, my parents encouraged me to explore various sports, from baseball to basketball and soccer. Despite their efforts, none of these activities managed to captivate my interest for long. In middle school and high school, I immersed myself in the world of music, joining the band and marching band where I played the clarinet for nine years. Despite my dedication and enjoyment of music, I realized that this path wasn't the one I envisioned for my future. It was only when my dad introduced me to my first video game, Call of Duty: Modern Warfare on the PlayStation 3, during my sixth-grade year that I discovered a new passion that would shape my future. The moment I grasped the controller, I was hooked. The dynamic and ever-evolving nature of technology captivated me, igniting a desire to forge a career that would allow me to contribute to this rapidly advancing field. This pivotal experience marked the beginning of my journey into Computer Science and Software Engineering, fields that promise endless opportunities for innovation and growth.
