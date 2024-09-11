@@ -15,7 +15,7 @@ labels:
 
 <div class="text-center p-4">
   <img width="200px" src="../img/my-future/bball.jpeg" class="img-thumbnail" >
-  <img width="270px" src="../img/my-future/music.png" class="img-thumbnail" >
+  <img width="275px" src="../img/my-future/music.png" class="img-thumbnail" >
   <img width="300px" src="../img/my-future/games.jpeg" class="img-thumbnail" >
 </div>
 
