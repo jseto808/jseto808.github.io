@@ -9,6 +9,7 @@ labels:
   - Smart Questions
   - Smart Answers
   - StackOverflow
+  - Professionalism
 ---
 
 <img width="500px" class="rounded float-start pe-4" src="../img/smart-questions/Stupid-Question.jpg">
@@ -16,11 +17,11 @@ labels:
 ## What are Stupid Questions?
 At some point in our lives, most of us have heard someone say, "There are no stupid questions." This is wrong. Some questions can be considered stupid because they often lack the characteristics of a smart question, which leads to wasted time and frustration. Attributes of a stupid question are typically: 
 
-1. Lack of Preparation: Stupid questions are frequently asked by individuals who have not invested time in preliminary research. Questions that could be answered with a simple search or a basic understanding of the topic indicate a lack of effort. For example, asking "What does the term 'open-source' mean?" in a technical forum where this concept is fundamental might be seen as a lazy approach.
+1. Lack of Preparation: Stupid questions are frequently asked by individuals who have not invested time in preliminary research. Questions that could be answered with a simple search or a basic understanding of the topic indicate a lack of effort and could be considered lazy.
 
 2. Vagueness and Ambiguity: Stupid questions are often vague and do not provide enough information for others to give a useful response. Questions like "Why does this not work?" without any context or details fail to elicit meaningful help. Providing specific details about what is being attempted and the exact nature of the problem is crucial.
 
-3. Irrelevance: Questions that are off-topic or irrelevant to the current discussion or forum can be perceived as stupid. For example, asking about the best way to cook pasta in a programming forum is not only irrelevant but also disruptive to the topic at hand.
+3. Irrelevance: Questions that are off-topic or irrelevant to the current discussion or forum can be perceived as stupid. For example, asking about the best way to google search something in a programming forum is not only irrelevant but also disruptive to the topic at hand.
 
 4. Disrespectful or Demanding Tone: Questions that come across as rude, demanding, or entitled can alienate respondents. Statements like "You need to solve this problem for me" are not only unproductive but can also be perceived as disrespectful.
 
@@ -33,7 +34,7 @@ On the other hand, smart questions can be characterized by their clarity, releva
 
 3. Context and Relevance: A smart question considers the context of the discussion or the expertise of the audience. It is framed in a way that makes it relevant to the current conversation or the specific knowledge of the people being asked. By tailoring questions to the context, the asker demonstrates an understanding of the subject matter and shows respect for the respondents’ time and expertise.
 
-4. Politeness and Professionalism: Politeness and a respectful tone are hallmarks of a smart question. Even when frustrated, a smart question is framed in a way that acknowledges the effort of the respondents. For instance, "I’m having trouble with this issue and would greatly appreciate your advice" is more likely to elicit a helpful response than a terse, "Why isn’t this working?"
+4. Politeness and Professionalism: Politeness and a respectful tone are indicators of a smart question. Even when frustrated, a smart question is framed in a way that acknowledges the effort of the respondents. For instance, "I’m having trouble with this issue and would greatly appreciate your advice" is more likely to elicit a helpful response than a terse, "Why isn’t this working?"
 
 ## How to Ask a Smart Question
 This question from Stack Overflow is a great example of a smart question. The asker titled their question: `Java: Need to create PDF from byte array`. The asker is asking for help in creating a PDF out of a byte array. This is a good example of a smart question for several reasons:
