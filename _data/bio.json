@@ -73,6 +73,26 @@
       ]
     }
   ],
+  "awards": [
+    {
+      "title": "Dean's List",
+      "date": "Spring 2024",
+      "awarder": "University of Hawai'i at Mānoa",
+      "summary": "Undergraduate students are awarded the Dean’s List distinction if they: (1) earn a semester grade point average of 3.5 or higher based on 12 credits or more taken for a grade (C/NC courses do not count), and (2) do not receive grades of W, I, F, or NC for that semester."
+    },
+    {
+      "title": "Academic Honors",
+      "date": "2018",
+      "awarder": "Kalani High School",
+      "summary": "Awarded to students that graduate with a cumulative GPA of 3.0 or above and completed 4 credits of math, 4 credits of science, and 2 credits from AP/IB/Running Start courses."
+    },
+    {
+      "title": "CTE Honors",
+      "date": "2018",
+      "awarder": "Kalani High School",
+      "summary": "Awarded to students that graduate with a cumulative GPA of 3.0 or above and completed a two-course sequence in an approved CTE program or program of study with a B or better and met or exceeded proficiency on a performance-based assessment."
+    }
+  ],
   "references": [
     {
       "name": "Available upon request"
