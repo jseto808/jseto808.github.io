@@ -12,7 +12,9 @@ labels:
   - Professionalism
 ---
 
-<img width="800px" class="rounded float-start pe-4" src="../img/smart-questions/Stupid-Question.jpg">
+<div class="text-center p-4">
+  <img width="500px" src="../img/smart-questions/Stupid-Question.jpg" class="img-thumbnail" >
+</div>
 
 ## What are Stupid Questions?
 At some point in our lives, most of us have heard someone say, "There are no stupid questions." This is wrong. Some questions can be considered stupid because they often lack the characteristics of a smart question, which leads to wasted time and frustration. Attributes of a stupid question are typically: 
