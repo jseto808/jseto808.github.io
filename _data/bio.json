@@ -16,7 +16,7 @@
   "interests": [
     { "name": "Software Development" },
     { "name": "Video Game Development" },
-    { "name": "Web Development" },
+    { "name": "Artificial Intelligence" },
     { "name": "Cybersecurity" }
   ],
   "skills": [
@@ -36,7 +36,7 @@
       "studyType": "B.S.",
       "startDate": "2022",
       "endDate": "Present",
-      "courses": [
+      "courses": ["Object-Oriented Programming", "Discrete Mathematics for Computer Science", "Algorithms", "Software Engineering"
       ]
     },
     {
@@ -45,7 +45,7 @@
       "studyType": "B.S.",
       "startDate": "2019",
       "endDate": "2022",
-      "courses": [
+      "courses": ["Object-Oriented Programming", "Discrete Mathematics for Computer Science"
       ]
     },
     {
