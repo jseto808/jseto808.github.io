@@ -13,10 +13,12 @@ labels:
   - ESLint
 ---
 
-<img width="800px" class="rounded float-start pe-4" src="../img/coding-standards/CodingStandards.png">
+<img width="500px" class="rounded float-start pe-4" src="../img/coding-standards/CodingStandards.png">
 
 ## Why Coding Standards Matter in Software Development
 In software engineering, discussions surrounding coding standards often get dismissed as trivial—focused solely on aesthetic choices like indentation or brace placement. However, I believe that coding standards represent a crucial pillar of software quality and can significantly impact individual learning and team productivity. They go beyond looks and are essential for creating code that is easy to maintain, read, and trust.
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 ## Key Benefits of Coding Standards
 Coding standards serve several purposes:
