@@ -14,6 +14,8 @@ labels:
   - Bootstrap 5
 ---
 
+<img width="500px" src="../img/ui-frameworks/WebDev.png">
+
 ## Embracing Bootstrap 5: A Modern Approach to UI Development
 
 In the constantly changing landscape of web development, UI frameworks have become vital tools for developers. Among these, Bootstrap 5 stands out due to its extensive features and capabilities. At first glance, UI frameworks can appear overwhelmingly complex. Bootstrap 5, for instance, introduces a multitude of components, utilities, and responsive design principles that require understanding. The challenge involves not just learning the syntax, but also understanding the framework’s core principles. This complexity can deter some developers, leading them to consider raw HTML and CSS as simpler alternatives. However, the apparent ease of using raw HTML and CSS can be misleading. Creating responsive and attractive interfaces without a framework takes a lot of custom code, which can be time-consuming and cause errors. Additionally, as a project's scope grows, it becomes more challenging to maintain and scale a hand-coded solution.
