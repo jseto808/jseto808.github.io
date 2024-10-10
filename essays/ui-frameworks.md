@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Efficiency in Web Development"
 # All dates must be YYYY-MM-DD format!
-date: 2024-09-24
+date: 2024-10-09
 published: true
 labels:
   - Software Engineering
