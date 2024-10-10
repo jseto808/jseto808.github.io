@@ -9,6 +9,7 @@ labels:
   - Software Engineering
   - Learning
   - Web Development
+  - UI Frameworks
   - HTML
   - CSS
   - Bootstrap 5
