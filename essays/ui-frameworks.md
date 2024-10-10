@@ -32,11 +32,15 @@ In the constantly changing landscape of web development, UI frameworks have beco
 
 In my own experience with Bootstrap 5, I found the transition from raw HTML and CSS to be both enlightening and empowering. Initially, I was skeptical about the learning curve, but the structured approach Bootstrap offered quickly became apparent. I was able to recreate a professional-looking website that I had previously helped to design with Squarespace, but this time using Bootstrap 5. The grid system particularly stood out, allowing me to build a responsive layout with minimal effort. Also, Bootstrap’s extensive documentation and community support helped me overcome problems that would have otherwise stalled my progress. When I encountered issues, I found solutions quickly through forums or the official documentation, allowing me to focus on the creative aspects of web development rather than the technical details of browser compatibility. 
 
-1. Website that I designed using Squarespace
-<img width="500px" src="../img/ui-frameworks/UI_FW_2.png">
+<figure>
+    <img width="500px" src="../img/ui-frameworks/UI_FW_2.png">
+    <figcaption>Website that I designed using Squarespace</figcaption>
+</figure>
 
-2. Website that I built using Bootstrap 5
-<img width="500px" src="../img/ui-frameworks/UI_FW_1.png">
+<figure>
+    <img width="500px" src="../img/ui-frameworks/UI_FW_1.png">
+    <figcaption>Website that I built using Bootstrap 5</figcaption>
+</figure>
 
 ## Conclusion
 
