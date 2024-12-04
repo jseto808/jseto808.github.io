@@ -14,7 +14,7 @@ labels:
   - VSCode
 ---
 
-<img width="500px" class="rounded float-start pe-4" src="../img/design-patterns/design-patterns.png">
+
 
 ## The Role of Design Patterns in Software Engineering
 In the world of software development, the journey from an idea to a fully functional application can feel like charting unknown territory. Without a map, developers risk reinventing the wheel—or worse, building solutions that are brittle, inefficient, or difficult to maintain. This is where design patterns come in. Design patterns are like well-worn paths in this vast landscape, offering proven, reusable solutions to common problems. They provide a shared language for developers, enabling teams to solve complex challenges collaboratively and with confidence.
