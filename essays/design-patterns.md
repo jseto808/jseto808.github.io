@@ -10,6 +10,7 @@ labels:
   - Learning
   - Design Standards
   - Software Design
+  - Web Development
   - VSCode
 ---
 

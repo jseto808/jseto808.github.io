@@ -16,13 +16,14 @@
   "interests": [
     { "name": "Software Development" },
     { "name": "Video Game Development" },
+    { "name": "Web Development" },
     { "name": "Artificial Intelligence" },
     { "name": "Cybersecurity" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "Java", "Javascript", "Typescript", "Python" ]
+      "keywords": [ "Java", "Javascript", "Typescript", "Python", "HTML", "CSS", "React", "Next.JS", "Bootstrap 5" ]
     },
     {
       "name": "Toolsets/OS",
