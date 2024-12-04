@@ -1,17 +1,20 @@
 ---
 layout: project
 type: project
-image: img/ics211-a1/Calculator.jpg
+image: img/aloha-archives/aaIcon.ico
 title: "Aloha Archives: The Hawaii Open Data Portal"
-date: 2024-01-11
+date: 2024-12-04
 published: false
 labels:
-  - Java
+  - Software Engineering
+  - Web Development
+  - JavaScript
+  - TypeScript
+  - React
+  - Bootstrap 5
+  - Next.JS
   - GitHub
-  - File Reading
-  - Calculator
-  - Object-Oriented Programming
-summary: "A class that can read files and compute date and time based on seconds in a year for ICS 211."
+summary: "A redesign of the current Hawaii Open Data Portal to allow for more ease of use."
 ---
 
 <div class="text-center p-4">
@@ -73,4 +76,4 @@ public String computeDateTime(long sec, boolean leapYear) { //Method to compute 
 ## What I learned
 Due to the assignment, I learned how to effectively create methods that can provide a solution to a specific problem. The assignment also reinforced my knowledge of Java data structures and how to implement different classes and methods to solve a problem. This project made me more confident in my skills as a complex thinker and problem solver.
 
-Source: <a href="https://github.com/jseto808/ICS211-A1.git"><i class="large github icon "></i>jseto808/ICS211-A1</a>
+Source: <a href="https://github.com/Aloha-Archives/aloha-archives"><i class="large github icon "></i>Aloha-Archives/aloha-archives</a>
