@@ -57,6 +57,7 @@ Aloha Archives addresses these challenges through:
 	- Developed a highly functional search bar that integrates with URL parameters, dynamically constructing search queries for datasets.
 	- Enabled seamless navigation to the results page, preserving search context through parameters like search, topic, org, and sort.
 	- Enhanced usability with support for keyboard shortcuts (e.g., Enter key) and a clean, responsive interface using React and Bootstrap.
+
    ```
    const handleSearch = () => {
 		const newUrl = `/results?search=${encodeURIComponent(query)}${
@@ -72,14 +73,15 @@ Aloha Archives addresses these challenges through:
    ```
 
 <div class="text-center p-4">
-  <img width="254px" src="../img/aloha-archives/Original_Landing-Page.png" class="img-thumbnail" >
-  <img width="200px" src="../img/aloha-archives/AA_Landing.png" class="img-thumbnail" >
+  <img height="500px" src="../img/aloha-archives/Original_Landing-Page.png" class="img-thumbnail" >
+  <img height="500px" src="../img/aloha-archives/AA_Landing.png" class="img-thumbnail" >
 </div>
 
 2. Results Page:
 	- Designed and implemented a results page that provides interactive filtering and sorting options.
 	- Integrated dynamic state management to ensure real-time updates as users refine their searches by topic or organization.
 	- Focused on creating an intuitive interface for exploring and analyzing datasets efficiently.
+
    ```
    const fetchData = async () => {
       if (typeof window !== 'undefined') {
@@ -97,8 +99,8 @@ Aloha Archives addresses these challenges through:
    ```
 
 <div class="text-center p-4">
-  <img width="254px" src="../img/aloha-archives/Original_Results-Page.png" class="img-thumbnail" >
-  <img width="200px" src="../img/aloha-archives/AA_Results.png" class="img-thumbnail" >
+  <img height="500px" src="../img/aloha-archives/Original_Results-Page.png" class="img-thumbnail" >
+  <img height="500px" src="../img/aloha-archives/AA_Results.png" class="img-thumbnail" >
 </div>
 
 ## Technical Highlights
