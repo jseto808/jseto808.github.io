@@ -19,8 +19,7 @@ summary: "A redesign of the current Hawaii Open Data Portal to allow for more ea
 ---
 
 <div class="text-center p-4">
-  <img width="254px" src="../img/aloha-archives/Logo.png" class="img-thumbnail" >
-  <img width="200px" src="../img/ics211-a1/DateTime.png" class="img-thumbnail" >
+  <img width="254px" src="../img/aloha-archives/AA-Logo.png" class="img-thumbnail">
 </div>
 
 ## Project Summary
