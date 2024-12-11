@@ -57,7 +57,7 @@ Aloha Archives addresses these challenges through:
 	- Developed a highly functional search bar that integrates with URL parameters, dynamically constructing search queries for datasets.
 	- Enabled seamless navigation to the results page, preserving search context through parameters like search, topic, org, and sort.
 	- Enhanced usability with support for keyboard shortcuts (e.g., Enter key) and a clean, responsive interface using React and Bootstrap.
-	<br></br>
+	<p>&nbsp;</p>
    ```
    const handleSearch = () => {
 		const newUrl = `/results?search=${encodeURIComponent(query)}${
@@ -81,7 +81,7 @@ Aloha Archives addresses these challenges through:
 	- Designed and implemented a results page that provides interactive filtering and sorting options.
 	- Integrated dynamic state management to ensure real-time updates as users refine their searches by topic or organization.
 	- Focused on creating an intuitive interface for exploring and analyzing datasets efficiently.
-	<br></br>
+	<p>&nbsp;</p>
    ```
    const fetchData = async () => {
       if (typeof window !== 'undefined') {
