@@ -29,7 +29,7 @@ The project required me to find a solution to a problem that resembled the well-
 ## Project Solution
 The algorithm I developed took the information from a graph of the Islands such as island travel times, population, and last visit time. It then used that information to assign priorities in the order of travel time, population, and recency. Dijkstra’s algorithm was then used to compute the shortest path to each island from the starting island with the priorities in mind. The shortest distances and shortest paths then recorded the paths found by Dijkstra’s algorithm to provide the answer to the shortest route and cost from the starting island to the destination. The algorithm could discover the best paths from each island to the next destination during a trip. Dijkstra’s algorithm was a good algorithm to use because it is a greedy algorithm that determines the shortest path possible with an average case time complexity of O((V + E) log V).
 
-```
+```java
 // Dijkstra's algorithm to find shortest paths from a single source
 public static int[] dijkstra(int[][] graph, int start) {
     int n = graph.length;

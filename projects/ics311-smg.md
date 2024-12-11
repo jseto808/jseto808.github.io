@@ -28,7 +28,7 @@ For this assignment, I needed to analyze social media data by implementing metho
 ## Project Solution
 The algorithm I developed used NetworkX and Matplotlib to create and visualize a social media network graph. The algorithm allowed the addition of nodes and edges to represent users and posts and their interactions, respectively. Nodes would be colored based on attributes such as comments or views, with color intensity reflecting the post's number of comments or views. The algorithm then generated visualizations using a spring layout (Force-Directed Graph Drawing) and included color legends to indicate the range of values for the selected criterion. Although Force-Directed Graph drawing has a high runtime, O(n3), it was used because it improves the readability of the graph. The `main` function took the information from the social media network and added nodes and edges, generated visualizations highlighting either comments or views and represented the data distribution within the network.
 
-```
+```python
 # Compute layout once
         if self.pos is None:
             self.pos = nx.spring_layout(self.graph, seed=42)  # Using a fixed seed for reproducibility
