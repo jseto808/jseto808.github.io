@@ -45,7 +45,7 @@ This question from Stack Overflow is a great example of a smart question. The as
 
 2. Contextual Information
    - The question provides a clear context for the problem. The asker provides a copy of their code to provide clear context of what they are trying to achieve:
-```
+```java
      static void byteArrayToFile(byte[] bArray) {  
     try {  
         // Create file  
@@ -64,7 +64,7 @@ This question from Stack Overflow is a great example of a smart question. The as
 3. Demonstrates Effort
    - The asker demonstrated that they have tried to solve this problem on their own and have provided the steps that they have taken to solve the problem on their own:
      - `I was actually able to create the correct PDF by writing a web application using essentially the same process. The primary difference between the web application and the code about was this line:`
-```
+```java
 response.setContentType("application/pdf");
 ```
 
@@ -72,7 +72,7 @@ response.setContentType("application/pdf");
    - The goal of the question is clearly stated: to create a PDF from a byte array. This clarity helps responders focus on providing a solution that meets the exact needs of the asker. It avoids ambiguity and ensures that the answers are relevant to the problem at hand.
   
 Due to the question being a smart question, the answers were able to be concise. The answers given all show simple lines of code that could help the asker solve their problem:
-```
+```java
 OutputStream out = new FileOutputStream("out.pdf");
 out.write(bArray);
 out.close();

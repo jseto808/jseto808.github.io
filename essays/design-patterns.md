@@ -40,7 +40,7 @@ For the 2024 Hawaii Annual Code Challenge and my final project for ICS 314, I wa
 
      Data Fetching: Functions like fetchTopics and fetchDatasets in ResultsPage.tsx retrieve data from an external API. They process the data and update the state, ensuring that the application’s data layer remains up-to-date.
 
-     ```
+     ```typescript
      const fetchDatasets = async (query: string, topic: string, org: string, sort: string) => {
        const response = await fetch(`/api/datasets?search=${query}&topic=${topic}&org=${org}&sort=${sort}`);
        const data = await response.json();
@@ -57,7 +57,7 @@ For the 2024 Hawaii Annual Code Challenge and my final project for ICS 314, I wa
 
      An example of this can be seen within the SearchBar component:
 
-     ```
+     ```typescript
      return (
       <Container>
          <InputGroup>
@@ -85,7 +85,7 @@ For the 2024 Hawaii Annual Code Challenge and my final project for ICS 314, I wa
 
      User Input Handling: Functions like handleSearch, handleTopicFilter, and handleSort interpret user actions, such as typing in the search bar or clicking on a filter.
 
-     ```
+     ```typescript
      const handleSearch = (newQuery: string) => {
        setQuery(newQuery);
        fetchDatasets(newQuery, selectedTopic, selectedOrg, sortCriteria);
