@@ -74,7 +74,7 @@ Aloha Archives addresses these challenges through:
 
 <div class="text-center p-4">
   <img width="500px" src="../img/aloha-archives/Original_Landing-Page.png" class="img-thumbnail" >
-  <img width="500px" src="../img/aloha-archives/AA_Landing.png" class="img-thumbnail" >
+  <img width="400px" src="../img/aloha-archives/AA_Landing.png" class="img-thumbnail" >
 </div>
 
 2. Results Page:
@@ -100,7 +100,7 @@ Aloha Archives addresses these challenges through:
 
 <div class="text-center p-4">
   <img width="500px" src="../img/aloha-archives/Original_Results-Page.png" class="img-thumbnail" >
-  <img width="500px" src="../img/aloha-archives/AA_Results.png" class="img-thumbnail" >
+  <img width="400px" src="../img/aloha-archives/AA_Results.png" class="img-thumbnail" >
 </div>
 
 ## Technical Highlights
