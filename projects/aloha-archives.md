@@ -114,6 +114,15 @@ Aloha Archives addresses these challenges through:
 3. Improved Accessibility: The platform accommodates users with varying technical skills, fostering inclusivity.
 
 ## What I learned
-
+1. Dynamic State Management: By designing a search bar and results page with React, I deepened my understanding of managing component state 
+   dynamically and efficiently.
+2. URL Parameter Integration: Implementing URL-based query handling taught me how to synchronize application state with URL parameters to enhance 
+   user experience and support shareable links.
+3. Accessibility Principles: While creating user-friendly interfaces, I learned how small design decisions impact inclusivity, ensuring features 
+   are accessible to a broad audience.
+4. Problem-Solving in Real-Time: Tackling challenges such as filtering, sorting, and dynamic updates enhanced my debugging and iterative design 
+   skills.
+5. Collaboration and Communication: Contributing to a larger project with diverse stakeholders reinforced the importance of clear documentation 
+   and collaborative problem-solving.
 
 Source: <a href="https://github.com/Aloha-Archives/aloha-archives"><i class="large github icon "></i>Aloha-Archives/aloha-archives</a>
