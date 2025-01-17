@@ -23,11 +23,15 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "Java", "Javascript", "Typescript", "Python", "HTML", "CSS", "React", "Next.js", "Bootstrap 5", "Learning: C, C++" ]
+      "keywords": [ "Java", "Javascript", "Typescript", "Python", "HTML", "CSS", "React", "Next.js", "Bootstrap 5" ]
     },
     {
       "name": "Toolsets/OS",
       "keywords": [ "Windows 10/11", "MacOS", "Git/GitHub" ]
+    },
+    {
+      "name": "Currently Learning",
+      "keywords": [ "C", "C++" ]
     }
   ],
   "education": [
