@@ -23,7 +23,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "Java", "Javascript", "Typescript", "Python", "HTML", "CSS", "React", "Next.js", "Bootstrap 5" ]
+      "keywords": [
+        { "Programming Languages": ["Java", "Javascript", "Typescript", "Python", "HTML", "CSS"] },
+        { "Frontend Frameworks": ["React", "Next.js"] },
+        { "Styling Tools": ["Bootstrap 5"] }
+      ]
     },
     {
       "name": "Toolsets/OS",
