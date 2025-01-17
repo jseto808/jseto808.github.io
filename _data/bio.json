@@ -23,7 +23,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "Java", "Javascript", "Typescript", "Python", "HTML", "CSS", "React", "Next.js", "Bootstrap 5" ]
+      "keywords": [ "Java", "Javascript", "Typescript", "Python", "HTML", "CSS", "React", "Next.js", "Bootstrap 5", "C", "C++" ]
     },
     {
       "name": "Toolsets/OS",
@@ -37,7 +37,7 @@
       "studyType": "B.S.",
       "startDate": "2022",
       "endDate": "Present",
-      "courses": ["Object-Oriented Programming", "Discrete Mathematics for Computer Science", "Algorithms", "Software Engineering"
+      "courses": ["Object-Oriented Programming", "Discrete Mathematics for Computer Science", "Algorithms", "Software Engineering", "Program Structure", "Database Systems", "Security and Trust: Resource Protections"
       ]
     },
     {
@@ -76,8 +76,14 @@
   ],
   "awards": [
     {
+      "title": "Hawai'i Annual Code Challenge Finalist",
+      "date": "2024",
+      "awarder": "State of Hawai'i",
+      "summary": "The HACC is an annual event that solicits challenges from state departments and community groups and asks student, amateur and professional coders to develop technology applications to help solve specific problems. In 2024, 17 teams advanced as finalists out of a total of 41 participating teams."
+    },
+    {
       "title": "Dean's List",
-      "date": "Spring 2024",
+      "date": "Spring 2024, Fall 2024",
       "awarder": "University of Hawai'i at Mānoa",
       "summary": "Undergraduate students are awarded the Dean’s List distinction if they: (1) earn a semester grade point average of 3.5 or higher based on 12 credits or more taken for a grade (C/NC courses do not count), and (2) do not receive grades of W, I, F, or NC for that semester."
     },
