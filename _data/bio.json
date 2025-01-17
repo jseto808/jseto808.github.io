@@ -76,6 +76,19 @@
         "Assist students and faculty with any computer-related issues",
         "Maintain and update computers within computer lab"
       ]
+    },
+    {
+      "company": "Arizona State University",
+      "position": "Student Center Office Assistant",
+      "website": "",
+      "startDate": "2019-10",
+      "endDate": "2020-06",
+      "summary": "Provide assitantance to students and faculty with any questions or concerns.",
+      "highlights": [
+        "Manage front desk and assisted students and faculty with their question and needs",
+        "Communicate with employers to make room arrangements and electronic sign-ups for on-campus interviews",
+        "Coordinate and assist with Fulton Career Center signature events"
+      ]
     }
   ],
   "awards": [
@@ -83,7 +96,7 @@
       "title": "Hawai'i Annual Code Challenge Finalist",
       "date": "2024",
       "awarder": "State of Hawai'i",
-      "summary": "The HACC is an annual event that solicits challenges from state departments and community groups and asks student, amateur and professional coders to develop technology applications to help solve specific problems. In 2024, 17 teams advanced as finalists out of a total of 41 participating teams."
+      "summary": "The HACC is an annual event that solicits challenges from state departments and community groups and asks student, amateur and professional coders to develop technology applications to help solve specific problems. In 2024, 17 teams advanced as finalists out of a total of 41 participating teams. [More Info](https://jseto808.github.io/projects/aloha-archives.html)"
     },
     {
       "title": "Dean's List",
