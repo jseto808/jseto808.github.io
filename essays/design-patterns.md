@@ -4,7 +4,7 @@ type: essay
 title: "Clarity in the Chaos"
 # All dates must be YYYY-MM-DD format!
 date: 2024-12-04
-published: true
+published: false
 labels:
   - Software Engineering
   - Learning
