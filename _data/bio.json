@@ -24,15 +24,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "Java", "Javascript", "Typescript", "Python", "HTML", "CSS", "React", "Next.js", "Bootstrap 5" ]
+      "keywords": [ "Java", "JavaScript", "TypeScript", "Python", "HTML", "CSS", "React", "Next.js", "Bootstrap 5", "C", "C++", "SQL" ]
     },
     {
       "name": "Toolsets/OS",
       "keywords": [ "Windows 10/11", "MacOS", "Git/GitHub" ]
-    },
-    {
-      "name": "Currently Learning",
-      "keywords": [ "C", "C++", "SQL" ]
     }
   ],
   "education": [
@@ -71,11 +67,11 @@
       "website": "",
       "startDate": "2022-08-12",
       "endDate": "2023-10-12",
-      "summary": "Provide computer support to students and faculty and update the SAAS website",
+      "summary": "Oversaw daily operations of the computer lab, which provided services to approximately 500 student-athletes and faculty, ensuring a productive and accessible environment.",
       "highlights": [
-        "(1) Maintained, updated, and oversaw the official SAAS website.",
-        "(2) Assisted students and faculty with any computer-related issues.",
-        "(3) Upgraded lab computers with the latest software, increasing functionality and reducing technical issues through regular maintenance and problem-solving."
+        "(1) Maintained, updated, and managed the official SAAS website, ensuring accurate content, functionality, and user-friendly navigation.",
+        "(2) Provided prompt and effective computer support, troubleshooting hardware and software issues for students and faculty to minimize disruptions.",
+        "(3) Upgraded lab computers with the latest software and performed regular maintenance to enhance system performance, increase functionality, and reduce recurring technical issues."
       ]
     },
     {
@@ -84,11 +80,11 @@
       "website": "",
       "startDate": "2019-10",
       "endDate": "2020-06",
-      "summary": "Provide assistance to students and faculty with any questions or concerns.",
+      "summary": "Assisted students and faculty with a wide range of questions, concerns, and service requests.",
       "highlights": [
-        "(1) Managed the front desk and assisted students and faculty with their questions and needs.",
-        "(2) Communicated with employers to make room arrangements and electronic sign-ups for on-campus interviews.",
-        "(3) Coordinated and assisted with Fulton Career Center signature events."
+        "(1) Managed the front desk efficiently and assisted students and faculty with daily inquiries and service needs.",
+        "(2) Communicated professionally with employers to create room arrangements and set up electronic sign-ups for on-campus interviews.",
+        "(3) Coordinated logistics, provided support, and assisted with the planning and execution of Fulton Career Center signature events."
       ]
     }
   ],
