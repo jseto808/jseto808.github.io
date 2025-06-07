@@ -29,6 +29,10 @@
     {
       "name": "Toolsets/OS",
       "keywords": [ "Windows 10/11", "MacOS", "Git/GitHub" ]
+    },
+    {
+      "name": "Core",
+      "keywords": [ "Problem Solving", "Debugging", "Communication", "Team Collaboration", "Agile Development", "Time Management", "Attention to Detail" ]
     }
   ],
   "education": [
