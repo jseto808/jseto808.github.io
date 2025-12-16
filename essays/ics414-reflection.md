@@ -16,7 +16,7 @@ labels:
 ---
 
 <div class="text-center p-4">
-  <img width="326px" src="../img\ics414-reflection\icslogo1.jpeg" class="img-thumbnail" >
+  <img width="341px" src="../img\ics414-reflection\icslogo1.jpeg" class="img-thumbnail" >
   <img width="300px" src="../img\ics414-reflection\pantrypals-logo.png" class="img-thumbnail" >
 </div>
 
