@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/kaiaulu/kaiaulu-logo.png
+image: img/kaiaulu/kaiaulu-sq.png
 title: "Kaiaulu"
 date: 2026-05-12
 published: true
