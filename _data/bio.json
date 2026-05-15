@@ -14,10 +14,12 @@
     ]
   },
   "interests": [
-    { "name": "Software Engineering" },
-    { "name": "Web Development" },
     { "name": "Game Development" },
-    { "name": "Artificial Intelligence" }
+    { "name": "Gameplay Systems" },
+    { "name": "Game AI" },
+    { "name": "Full Stack Web Development" },
+    { "name": "UI/UX Design" },
+    { "name": "Software Design" }
 ],
   "skills": [
     {
