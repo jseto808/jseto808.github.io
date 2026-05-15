@@ -1,38 +1,65 @@
 {
   "basics": {
     "name": "Jared Seto",
-    "label": "Student",
+    "label": "Software Engineer",
     "picture": "https://github.com/jseto808.png",
-    "email": "jaredws@hawaii.edu",
+    "email": "jseto2018@gmail.com",
     "phone": "808-722-1391",
     "website": "https://jseto808.github.io",
-    "summary": "I am currently pursuing a Bachelor of Science (B.S.) in Computer Science through the Department of Information and Computer Sciences at the University of Hawaiʻi. My academic journey has equipped me with a strong foundation in computational theory, software development, and emerging technologies. I am committed to applying the knowledge gained throughout my studies to solve real-world challenges, contribute to innovative projects, and make a meaningful impact in the tech industry. I am set to graduate in Spring 2026 and look forward to gaining hands-on experience through internships, research opportunities, and collaborative projects that will further develop my technical skills and professional network.",
-    "location": { "address": "", "postalCode": "96816", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "summary": "Bachelor of Science (B.S.) in Computer Science from the Department of Information and Computer Sciences at the University of Hawaiʻi. Developed a strong foundation in software development, computational theory, and emerging technologies through academic coursework and technical projects. Passionate about building impactful technology solutions, solving real-world problems, and continuously expanding technical expertise through professional experience and collaborative development.",
+    "location": { "address": "3730 Sierra Dr", "postalCode": "96816", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "jseto808", "url": "http://github.com/jseto808" },
       { "network": "linkedin", "username": "Jared Seto", "url": "https://www.linkedin.com/in/jared-seto/" }
     ]
   },
   "interests": [
-    { "name": "Software Development" },
-    { "name": "Video Game Development" },
+    { "name": "Software Engineering" },
     { "name": "Web Development" },
-    { "name": "Data Science" },
+    { "name": "Game Development" },
     { "name": "Artificial Intelligence" },
-    { "name": "Cybersecurity" }
-  ],
+    { "name": "Frontend Engineering" }
+],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": [ "Java", "JavaScript", "TypeScript", "Python", "HTML", "CSS", "React", "Next.js", "Bootstrap 5", "C", "C++", "SQL" ]
+      "name": "Languages & Technologies",
+      "keywords": [
+        "Python",
+        "C",
+        "C#",
+        "C++",
+        "Java",
+        "JavaScript",
+        "TypeScript",
+        "HTML",
+        "CSS",
+        "React",
+        "Next.js",
+        "Bootstrap 5",
+        "Unity",
+        "SQL"
+      ]
     },
     {
-      "name": "Toolsets/OS",
-      "keywords": [ "Windows 10/11", "MacOS", "Git/GitHub" ]
+      "name": "Tools & Platforms",
+      "keywords": [
+        "Git/GitHub",
+        "Windows 10/11",
+        "macOS"
+      ]
     },
     {
-      "name": "Core",
-      "keywords": [ "Problem Solving", "Debugging", "Communication", "Team Collaboration", "Agile Development", "Time Management", "Attention to Detail" ]
+      "name": "Core Skills",
+      "keywords": [
+        "Problem Solving",
+        "Debugging",
+        "Software Design",
+        "Team Collaboration",
+        "Agile Development",
+        "Version Control",
+        "Adaptability",
+        "Technical Communication"
+      ]
     }
   ],
   "education": [
@@ -41,26 +68,8 @@
       "area": "Computer Science (expected Spring, 2026)",
       "studyType": "B.S.",
       "startDate": "2022",
-      "endDate": "Present",
+      "endDate": "2026",
       "courses": ["Object-Oriented Programming", "Discrete Mathematics for Computer Science", "Algorithms", "Software Engineering", "Program Structure", "Database Systems", "Security and Trust: Resource Protections"
-      ]
-    },
-    {
-      "institution": "Arizona State University, Tempe, AZ",
-      "area": "Computer Science",
-      "studyType": "B.S.",
-      "startDate": "2019",
-      "endDate": "2022",
-      "courses": ["Object-Oriented Programming", "Discrete Mathematics for Computer Science"
-      ]
-    },
-    {
-      "institution": "Kalani High School, Honolulu, HI",
-      "area": "Academic and CTE Honors",
-      "studyType": "High School Diploma",
-      "startDate": "2014",
-      "endDate": "2018",
-      "courses": [
       ]
     }
   ],
@@ -105,18 +114,6 @@
       "date": "SP24, FA24, SP25",
       "awarder": "University of Hawai'i at Mānoa",
       "summary": "Undergraduate students are awarded the Dean’s List distinction if they: (1) earn a semester grade point average of 3.5 or higher based on 12 credits or more taken for a grade (C/NC courses do not count), and (2) do not receive grades of W, I, F, or NC for that semester."
-    },
-    {
-      "title": "Academic Honors",
-      "date": "2018",
-      "awarder": "Kalani High School",
-      "summary": "Awarded to students that graduate with a cumulative GPA of 3.0 or above and completed 4 credits of math, 4 credits of science, and 2 credits from AP/IB/Running Start courses."
-    },
-    {
-      "title": "CTE Honors",
-      "date": "2018",
-      "awarder": "Kalani High School",
-      "summary": "Awarded to students that graduate with a cumulative GPA of 3.0 or above and completed a two-course sequence in an approved CTE program or program of study with a B or better and met or exceeded proficiency on a performance-based assessment."
     }
   ],
   "references": [
