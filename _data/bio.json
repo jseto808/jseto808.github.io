@@ -6,7 +6,7 @@
     "email": "jseto2018@gmail.com",
     "phone": "808-722-1391",
     "website": "https://jseto808.github.io",
-    "summary": "Bachelor of Science (B.S.) in Computer Science from the Department of Information and Computer Sciences at the University of Hawaiʻi. Developed a strong foundation in software development, computational theory, and emerging technologies through academic coursework and technical projects. Passionate about building impactful technology solutions, solving real-world problems, and continuously expanding technical expertise through professional experience and collaborative development.",
+    "summary": "Bachelor of Science (B.S.) in Computer Science from the University of Hawaiʻi at Mānoa. Passionate about game development and full-stack web engineering, with hands-on experience building Unity games with custom AI systems and gameplay mechanics, and shipping collaborative web applications using Next.js and PostgreSQL. Driven by a focus on the systems and details that make interactive experiences feel right.",
     "location": { "address": "3730 Sierra Dr", "postalCode": "96816", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "jseto808", "url": "http://github.com/jseto808" },
