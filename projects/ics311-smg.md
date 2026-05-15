@@ -4,7 +4,7 @@ type: project
 image: img/ics311-smg/Social Media.jpg
 title: "Social Media Graph"
 date: 2024-08-04
-published: true
+published: false
 labels:
   - Python
   - GitHub

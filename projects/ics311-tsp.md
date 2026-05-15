@@ -4,7 +4,7 @@ type: project
 image: img/ics311-tsp/OptimalPath.png
 title: "Traveling Salesman Problem"
 date: 2024-07-16
-published: true
+published: false
 labels:
   - Java
   - GitHub
