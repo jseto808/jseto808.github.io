@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/psycho-puppy/psycho-puppy.png
+image: img/psycho-puppy/psycho-puppy-sq.png
 title: "Psycho Puppy"
 date: 2026-02-18
 published: true
