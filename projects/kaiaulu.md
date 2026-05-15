@@ -16,7 +16,7 @@ summary: "Contributed to Kaiaulu, an open-source R toolkit for mining and analyz
 ---
 
 <div class="text-center p-4">
-  <img width="254px" src="../img/kaiaulu/kaiaulu-logo.png" class="img-thumbnail">
+  <img width="254px" src="../img/kaiaulu/kaiaulu-sq.png" class="img-thumbnail">
 </div>
 
 ## Project Summary
