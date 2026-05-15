@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/aloha-archives/AA-Logo.png
-title: "Aloha Archives: The Hawaii Open Data Portal"
+title: "Aloha Archives"
 date: 2024-12-04
 published: True
 labels:
