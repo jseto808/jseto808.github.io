@@ -124,11 +124,11 @@ layout: home
               <p class="mb-0"><a href="{{ entry.website }}">{{ entry.website | remove: "http://" | remove: "https://" }}</a></p>
               <p class="mb-0">{{ entry.summary }}</p>
               {% if entry.highlights %}
-                <ul>
+                <ol style="list-style-type: decimal;">
                   {% for highlight in entry.highlights %}
                     <li>{{ highlight }}</li>
                   {% endfor %}
-                </ul>
+                </ol>
               {% endif %}
             </div>
             <div class="col-3">
