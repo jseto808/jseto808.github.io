@@ -29,6 +29,7 @@
         "C",
         "C#",
         "C++",
+        "R",
         "Java",
         "JavaScript",
         "TypeScript",
@@ -44,7 +45,13 @@
     {
       "name": "Tools & Platforms",
       "keywords": [
-        "Git/GitHub",
+        "Git",
+        "GitHub",
+        "VS Code",
+        "Node.js",
+        "Blender",
+        "Prisma",
+        "PostgreSQL",
         "Windows 10/11",
         "macOS"
       ]
