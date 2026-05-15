@@ -6,12 +6,12 @@ title: "Aloha Archives"
 date: 2024-12-04
 published: True
 labels:
-  - Software Engineering
   - Web Development
+  - Full Stack
   - JavaScript
   - TypeScript
   - React
-  - Bootstrap 5
+  - Bootstrap
   - Next.js
   - PostgreSQL
   - GitHub

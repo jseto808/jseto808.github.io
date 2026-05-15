@@ -7,11 +7,15 @@ date: 2025-12-09
 published: true
 labels:
   - Web Development
+  - Full Stack
   - TypeScript
   - Next.js
   - React
   - PostgreSQL
   - Prisma
+  - Bootstrap
+  - Firebase
+  - NextAuth.js
   - GitHub
 summary: "A full-stack pantry management web app that helps households track food inventory, get expiration and low-stock alerts, manage shopping lists, and discover recipes based on what they have."
 ---

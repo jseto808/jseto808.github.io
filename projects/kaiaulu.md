@@ -9,6 +9,8 @@ labels:
   - Software Engineering Research
   - Data Science
   - R
+  - Network Analysis
+  - Git
   - GitHub
   - DV8
   - Open Source

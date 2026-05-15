@@ -10,6 +10,9 @@ labels:
   - Unity
   - C#
   - 3D
+  - AI
+  - NavMesh
+  - FPS
 summary: "A tactical FPS situation trainer built in Unity, designed to help players of games like Valorant and CS:GO drill room-clearing scenarios against configurable AI opponents."
 ---
 

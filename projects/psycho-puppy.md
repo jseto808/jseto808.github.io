@@ -8,8 +8,12 @@ published: true
 labels:
   - Game Development
   - Unity
+  - Blender
   - C#
   - 3D
+  - AI
+  - Physics
+  - URP
 summary: "A 3D Unity game where you play as a puppy chasing birds across a platform, gaining speed with every catch until you lose control entirely."
 ---
 
