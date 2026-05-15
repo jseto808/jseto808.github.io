@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/reclear/reclear.png
+image: img/reclear/reclear.pn
 title: "Re:CLEAR"
 date: 2026-05-08
 published: true
