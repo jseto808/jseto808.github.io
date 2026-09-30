@@ -83,6 +83,20 @@
   ],
   "work": [
     {
+      "company": "State of Hawaii, Department of Health, Environmental Health Agency",
+      "position": "Program Specialist III",
+      "website": "",
+      "startDate": "2026-07-27",
+      "endDate": "Present",
+      "summary": "Updating the Environmental Health Agency websites to improve accessibility and ADA compliance.",
+      "highlights": [
+        "Audited 7 branch websites against WCAG and ADA standards using Siteimprove, identifying and prioritizing accessibility issues for remediation.",
+        "Built 1 new division website in WordPress, customizing theme templates and styles (PHP, HTML, CSS) to meet accessibility standards.",
+        "Migrated critical content from all 7 branch sites into the new division site, consolidating resources into a single accessible hub.",
+        "Coordinated with 7 branch chiefs, the division chief, and administrative staff to update page content and ensure new material meets accessibility requirements."
+      ]
+    },
+    {
       "company": "UH Manoa Student-Athlete Academic Services",
       "position": "Computer Support Specialist",
       "website": "",
