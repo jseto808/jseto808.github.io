@@ -25,6 +25,8 @@ exclude:
   - Gemfile.lock
   - LICENSE
   - README.md
+  # Essays are hidden from the site. Delete the next line to publish them again.
+  - essays
 include:
   - .nojekyll
   - _data

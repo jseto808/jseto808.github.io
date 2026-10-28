@@ -9,13 +9,15 @@ layout: default
     <h1 class="display-4 fw-normal">Page Not Found</h1>
     <p>Perhaps you were looking for one of the following:</p>
 
+    {% assign essay_pages = site.pages | where: "type", "essay" | sort: "date" | reverse %}
+    {% if essay_pages.size > 0 %}
     <h3>Essays</h3>
     <ul>
-      {% assign essay_pages = site.pages | where: "type", "essay" | sort: "date" | reverse %}
       {% for page in essay_pages %}
       <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
       {% endfor %}
     </ul>
+    {% endif %}
 
     <h3>Projects</h3>
     <ul>
