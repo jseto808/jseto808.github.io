@@ -34,6 +34,7 @@
         "JavaScript",
         "TypeScript",
         "HTML",
+        "PHP",
         "CSS",
         "React",
         "Next.js",
@@ -53,7 +54,8 @@
         "Prisma",
         "PostgreSQL",
         "Windows 10/11",
-        "macOS"
+        "macOS",
+        "WordPress"
       ]
     },
     {
@@ -90,10 +92,10 @@
       "endDate": "Present",
       "summary": "Updating the Environmental Health Agency websites to improve accessibility and ADA compliance.",
       "highlights": [
-        "Audited 7 branch websites against WCAG and ADA standards using Siteimprove, identifying and prioritizing accessibility issues for remediation.",
-        "Built 1 new division website in WordPress, customizing theme templates and styles (PHP, HTML, CSS) to meet accessibility standards.",
-        "Migrated critical content from all 7 branch sites into the new division site, consolidating resources into a single accessible hub.",
-        "Coordinated with 7 branch chiefs, the division chief, and administrative staff to update page content and ensure new material meets accessibility requirements."
+        "Reviewed, revised, and redesigned 100+ Environmental Health Administration (EHA) webpages to improve content accuracy, organization, and overall user experience.",
+        "Collaborated with 50+ EHA program staff across separate offices to update website content and improve public access to permit review statuses, public hearing information, and other environmental health resources.",
+        "Ensured EHA webpages complied with ADA accessibility standards by implementing web accessibility best practices and improving content readability and navigation by 40%.",
+        "Verified accuracy and consistency of 100+ webpages over using Siteimprove and WCAG guidelines, achieving 99% compliance and demonstrating attention to detail in all publicly accessible EHA content updates."
       ]
     },
     {
